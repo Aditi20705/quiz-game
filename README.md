@@ -31,8 +31,7 @@ It features a 30-second timer for each question, tracks the high score, and offe
 ## 🚀 How to Run
 
 1. Make sure Python is installed (`python --version`)
-2. Clone or download this repository
-3. Run the Python file:
+2. Run the Python file:
 
 ```bash
 python quiz_gui.py
